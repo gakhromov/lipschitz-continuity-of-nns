@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+scipy = "*"
+matplotlib = "*"
+jupyterlab = "*"
+torchvision = "*"
+ipympl = "*"
+functorch = "*"
+tqdm = "*"
+tensorboard = "*"
+tbparse = "*"
+black = {extras = ["jupyter"], version = "*"}
+ffmpeg-python = "*"
+vit-pytorch = "*"
+einops = "*"
+seaborn = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.10"
