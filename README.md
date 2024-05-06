@@ -1,5 +1,5 @@
 # Some Fundamental Aspects about Lipschitz Continuity of Neural Networks
-Code for the paper "Some Fundamental Aspects about Lipschitz Continuity of Neural Networks". 
+Code for the paper "Some Fundamental Aspects about Lipschitz Continuity of Neural Networks". Paper link: [OpenReview](https://openreview.net/forum?id=5jWsW08zUh). 
 
 ## Requirements
 - **Mandatory**: 
