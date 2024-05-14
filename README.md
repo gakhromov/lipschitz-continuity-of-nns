@@ -1,5 +1,7 @@
 # Some Fundamental Aspects about Lipschitz Continuity of Neural Networks
-Code for the paper "Some Fundamental Aspects about Lipschitz Continuity of Neural Networks". Paper link: [OpenReview](https://openreview.net/forum?id=5jWsW08zUh). 
+Code for the paper "Some Fundamental Aspects about Lipschitz Continuity of Neural Networks", accepted for ICLR 2024. 
+
+Paper link: [OpenReview](https://openreview.net/forum?id=5jWsW08zUh), [arXiv](https://arxiv.org/abs/2302.10886). 
 
 ## Requirements
 - **Mandatory**: 
